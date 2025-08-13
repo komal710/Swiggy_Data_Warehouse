@@ -1,4 +1,4 @@
-<img width="1100" height="554" alt="image" src="https://github.com/user-attachments/assets/55848249-e44c-4cd2-a0b2-dab8a4d02fe8" />**We transform data flow requirements into implementation, create fact and dimension tables, and build an interactive Streamlit dashboard.**
+**We transform data flow requirements into implementation, create fact and dimension tables, and build an interactive Streamlit dashboard.**
  Completed this end to end real life food aggregator based data engineering project (ETL or ELT) using snowflake
  - To load data using snowflake’s snowsight data loading feature without any tool dependency.
  - To load delta data set and let is go through the data pipeline and to use $ notation to query stage file.
